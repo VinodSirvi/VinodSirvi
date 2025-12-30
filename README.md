@@ -13,6 +13,10 @@ About Me:
 
 # 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=VinodSirvi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VinodSirvi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinodSirvi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <div align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinodSirvi&theme=radical">
@@ -25,9 +29,6 @@ About Me:
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=VinodSirvi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VinodSirvi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinodSirvi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Snake Game Repo View -->
 
